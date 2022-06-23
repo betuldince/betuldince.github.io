@@ -13,13 +13,17 @@ Look how cool they are!
 
 ![sensor](https://github.com/betuldince/betuldince.github.io/blob/master/assets/images/sensor.jpeg)
 
-Equipment
+Equipment:
 
 - Arduino Uno or Mega
 - Jumper Cables
 - Distance Sensors
 - Breadboard
 - Lasers
+
+Software:
+
+- Download Touchdesigner from the following link: https://derivative.ca/download
 
 
 
