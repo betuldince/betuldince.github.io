@@ -6,20 +6,14 @@ layout: post
 Are you ready to tour Koc University and travel in time? If your answer is yes, put on your VR device, this application is for you. 
 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I created a roller coaster VR game on Koç University Campus using Unity and XR interaction toolkit for Oculus Quest 2. In this project, I used an exact model of the Koc University Campus so that newcomers can both enjoy playing Roller Coaster VR app and learn better about the campus by riding around the campus.
 
-Jekyll also offers powerful support for code snippets:
+## Story of the game:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+We have an archeology student as our hero, and they goes on a journey to collect artifacts from the past. Our hero goes on a time-travelling roller coaster to collect artifacts for the ARHA department. Time travelling roller coaster is the latest product of the ENG department. After collecting the artifacts, our hero tries to come back but, unfortunately the machine gives an error and sends our hero to a wrong timeline. To be able to go back to ıts own timeline our hero should fix the roller-coaster.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Our character, who is studying archeology at Koç University, wants to go back in time to collect the trophies to be exhibited in the exhibition. They ride the roller coaster, which is actually a time machine. After collecting the artifacts, our hero tries to come back but, unfortunately the machine gives an error and sends our hero to a wrong timeline. To be able to go back to ıts own timeline our hero should fix the roller-coaster by collecting the items in future. To find out where the items are, our character has to solve school-related riddles.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FvEZdLP4QV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
