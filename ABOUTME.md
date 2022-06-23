@@ -1,6 +1,6 @@
 ---
-title: "CV"
-permalink: "/CV/"
+title: "About"
+permalink: "/about/"
 layout: page
 ---
 
@@ -87,75 +87,6 @@ Sensor implementer and Filter Designer
 - Worked on campus accessibility to provide access and equal educational opportunity for students with disabilities
 - Organized and posted articles about Human-Computer interaction on Crafts computing website.
 
-## Extracurricular Activities
 
-[Koc University Student Council](https://www.ku.edu.tr/en/koc-student/student-affairs/student-council/)
-
-Representative of Engineering Departmant
-
-- Worked for the reopening of the student council and elected by engineering students to represent engineering faculty.
-- Worked with the university administration and participated in the planning of academic events such as engineering
-
-[Dean of Students](https://dos.ku.edu.tr/en/)
-
-Student Mentor
-
-- Assisting group of freshman students in achieving their academic goals for the academic year.
-
-[Koc University IEEE Club](https://ieee.ku.edu.tr/)
-
-Board Member and Event Organizer
-
-- Invited C-level speakers from industry-leading companies such as Vodafone, KARSAN, TUSAŞ to the campus to hold workshops, case studies, personal development and leadership seminars by finding sponsors.
-
-[Koc University Music Club](https://studentguide.ku.edu.tr/en/new-students/2020-2/orientation-days/presentations/music-club/)
-
-Board Member and Assistant
-
-- Scheduled and moderated club meetings, took notes to share club members after meetings.
-- Worked to find sponsors and companies to support the music festival and found artists to perform at festival.
-
-[Koc University Art Club](http://studentguide.ku.edu.tr/yeni-ogrenciler/uyum-gunleri/oryantasyon-sunumlari/resim-kulubu/)
-
-Board Member and Exhibition Organizer
-
-- Worked in the organization of the traditional painting exhibition held at the end of the year.
-
-[Koc University Radio Club](https://radyo.ku.edu.tr/)
-
-Board Member and Radio Broadcaster
-
-- Participated in the selection of broadcasters and arranged the schedule of radio programs. Presented the most listened radio channel “Halis Muhlis”. Produced podcasts for the KUradyo podcast channel on Spotify.
-
-## Skills & Interests
-
-Related Coursework : Designing extended reality experience, Basic Design, Creative Thinking in Design, Programming Digital Design(FPGA), Makerspace for Engineers, Machine Learning, Introduction to Artificial Intelligence, Signals and Systems.
-Research Methods.
-
-Languages : Python, Matlab, C/C++/C#, Java, VHDL, JavaScript.
-
-Programs : Unity, Blender, Auto Desk Maya, Unreal, Adobe Illustrator, Photoshop, xD, Premiere, After Effects.
-
-Interests : Oil painting, playing piano, drum and guitar, swing dancing, ice skating, cycling, radio broadcasting, volunteering.
-
-## Accomplishments
-
-Scholarships and Fellowships
-
-- Anatolian Scholarship 
-
-Highlights
-
-- Ranked as 4703rd/2,162,895 in 2017 LYS(Turkish equivalent of SAT).
-- Received Vehbi Koç Honor Award for 4 consecutive semesters, given to students with SPA 3.5 and higher.
-- TOEFL score: 90/120
-- Graduated from high school with second highest GPA on June 2017.
-- 2016-European Union Story Contest, provincial winner.
-- Prepared biology and physics projects for the TUBITAK research competition in high school.
-
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ciOagtVcY2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 
