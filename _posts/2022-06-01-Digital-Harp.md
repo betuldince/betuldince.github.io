@@ -23,8 +23,8 @@ Look how cool they are!
 
 ## Software:
 
-- Download Touchdesigner from the following link: https://derivative.ca/download
-- Download Arduino code from this link: https://drive.google.com/file/d/1bU3dXInk-xQx-2WQWLa_MC2hVSN-eUcG/view?usp=sharing
+- Download Touchdesigner from the following link: [Touchdesigner](https://derivative.ca/download)
+- Download Arduino code from this link: [Drive] (https://drive.google.com/file/d/1bU3dXInk-xQx-2WQWLa_MC2hVSN-eUcG/view?usp=sharing)
 
 ## How to
 
