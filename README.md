@@ -73,6 +73,19 @@ Mobile Application Developer Intern
 - Helped preparation of AR-Ready models and built an Augmented Reality Mobile application using image tracking and plane detector.
 - Had in-depth experience with Unity and ARFoundation. 
 
+## Projects and Research Experience
+
+[VRables Lab](https://www.linkedin.com/company/vrables-lab/)(June 2021 - Aug 2021)
+
+Sensor implementer and Filter Designer
+
+- Took part in creating controller for Mobile VR using Ardunio, Unity, 9 axis motion sensors.
+- Worked as filter designer to achieve the most realistic results and coded the Kalman Filter.
+
+[Koç University Arçelik Research Center for Creative Industries](https://kuar.ku.edu.tr/)(Sept. 2019 - Jan 2020)
+
+- Worked on campus accessibility to provide access and equal educational opportunity for students with disabilities
+- Organized and posted articles about Human-Computer interaction on Crafts computing website.
 
 ## Based on
 
