@@ -8,6 +8,16 @@ layout: page
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
+[Koc University](https://www.ku.edu.tr/en/) Istanbul/Turkey
+
+B.E. in Electrical & Electronics Engineering(Fall 2018 - Present)
+
+Dual degree with B.A. in Media and Visual Arts(Fall 2019 - Present)
+
+Track program with Artificial Intelligence(Spring 2021 – Present)
+
+Current GPA: 3.53/4.00
+
 ## Features
 
  - supports dark mode on macOS Mojave
