@@ -4,9 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
-## Education
+## Research Interests
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+AR / VR technologies, sensors, signal processing, FPGA design, mobile app development, machine learning applications in AR/VR technologies, modeling, animation, human-computer interaction, design, media and communication studies.
+
+## Education
 
 [Koc University](https://www.ku.edu.tr/en/) Istanbul/Turkey
 
