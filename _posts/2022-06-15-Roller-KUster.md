@@ -14,6 +14,6 @@ We have an archeology student as our hero, and they goes on a journey to collect
 
 Our character, who is studying archeology at Koç University, wants to go back in time to collect the trophies to be exhibited in the exhibition. They ride the roller coaster, which is actually a time machine. After collecting the artifacts, our hero tries to come back but, unfortunately the machine gives an error and sends our hero to a wrong timeline. To be able to go back to ıts own timeline our hero should fix the roller-coaster by collecting the items in future. To find out where the items are, our character has to solve school-related riddles.
 
-## Demo
+## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FvEZdLP4QV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
