@@ -7,6 +7,7 @@ Are you also suffering from the recently increased instrument prices? I have som
 
 Let me introduce you. Digital Harp.
 
+
 You just need to buy some cheap sensors, cables and Arduino to build it from scratch. And we will use touchdesigner as software which is free for one year use. 
 
 Look how cool they are!
