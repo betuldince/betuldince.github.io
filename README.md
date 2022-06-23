@@ -20,18 +20,17 @@ Track program with Artificial Intelligence(Spring 2021 – Present)
 
 Current GPA: 3.53/4.00
 
-## Features
+[NAOL High School](https://nigdeaol.meb.k12.tr/) Niğde/Turkey
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Work and Internship Experience
+
+Part Time Virtual Reality Developer
+[Nsocial](https://www.nsocialtr.com/index_en.html)
+- Working as a Virtual Reality developer to build occupational safety VR app used to train workers.
+- Taking part in collecting the assets, preparing the scenes, setting VR environments and coding the interactions.
+
+
+
 
 ## Based on
 
