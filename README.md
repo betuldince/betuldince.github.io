@@ -89,7 +89,7 @@ Sensor implementer and Filter Designer
 
 ## Extracurricular Activities
 
-[Koc Unievrsity Student Council](https://www.ku.edu.tr/en/koc-student/student-affairs/student-council/)
+[Koc University Student Council](https://www.ku.edu.tr/en/koc-student/student-affairs/student-council/)
 
 Representative of Engineering Departmant
 
