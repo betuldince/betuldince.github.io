@@ -24,26 +24,17 @@ Look how cool they are!
 ## Software:
 
 - Download Touchdesigner from the following link: [Touchdesigner](https://derivative.ca/download)
-- Download Arduino code from this link: [Drive] (https://drive.google.com/file/d/1bU3dXInk-xQx-2WQWLa_MC2hVSN-eUcG/view?usp=sharing)
+- Download following Touchdesigner file: [Touchdesigner File](https://drive.google.com/file/d/1In5s2i8YnAJlYcHDJ-aQ6-LN8U3ebDIz/view?usp=sharing)
+- Download Arduino code from this link: [Drive](https://drive.google.com/file/d/1bU3dXInk-xQx-2WQWLa_MC2hVSN-eUcG/view?usp=sharing)
 
 ## How to
 
+- Upload Arduino code to Arduino. 
+- Connect trig and echo pins of the distance sensors as indicated in Arduino code. Set common ground and VCC line on Breadboard and connect them to Arduino, also connect each sensor's power and ground pins to these common lines. (Optinal) Then connect lasers to each sensor, by connecting "S" pin of laser to sensor's VCC pin and "-" pin of laser to ground of sensor. Put laser closer to the sensor to estimate where the sensor reading is. 
+- Open Touchdesigner File
 
+Your instrument is ready! Also you can change your instrument with downloading different audios and adding them to Touchdesigner.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Demo
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Video
