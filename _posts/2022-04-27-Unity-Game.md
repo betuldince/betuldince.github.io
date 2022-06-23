@@ -12,7 +12,7 @@ The communication between Arduino and computer is bidirectional, which means tha
 
 In the behinning, player choose one of three options of the game: Free driving, Coin collecting, and Helicopter driving. If they choose the coin collection, they uses joystick to move around in the 3*3 led matrix. When they pushes the switch in the joystick, they determine the locations of the coins on the map with respect to map of leds. When they press on the red led, the communication is started and Arduino sends data to Unity using serial communication. The player tries to catch the coins in the map with driving car by joystick. When car collects the coins, the corresponding leds in the mapp turns off. If they choose the driving helicopter option, they use both MPU sensor and joystick. MPU sensor is used to determine the direction of the helicopter and joystick gives the movement. 
 
-## Equipments:
+## Hardware:
 
 - Arduino
 - Adafruit BNO055 
