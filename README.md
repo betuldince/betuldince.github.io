@@ -140,6 +140,19 @@ Interests : Oil painting, playing piano, drum and guitar, swing dancing, ice ska
 
 ## Accomplishments
 
+Scholarships and Fellowships
+
+- Anatolian Scholarship 
+
+Highlights
+
+- Ranked as 4703rd/2,162,895 in 2017 LYS(Turkish equivalent of SAT).
+- Received Vehbi Koç Honor Award for 4 consecutive semesters, given to students with SPA 3.5 and higher.
+- TOEFL score: 90/120
+- Graduated from high school with second highest GPA on June 2017.
+- 2016-European Union Story Contest, provincial winner.
+- Prepared biology and physics projects for the TUBITAK research competition in high school.
+
 
 
 
