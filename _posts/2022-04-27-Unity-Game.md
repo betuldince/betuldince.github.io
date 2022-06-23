@@ -3,23 +3,35 @@ title: "Arduino controlled Unity Game"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+It's time for you to build your own game and joystick ofcourse. For this project, me and my friend built Unity Game that is controlled by joystick, MPU sensor, and Arduino. This game includes 3 different modes: free driving, collecting the coins and driving helicopter.
 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The communication between Arduino and computer is bidirectional, which means that Arduino sends data to computer as well as computer sends data to Arduino. Novelty that we want to achieve from this project is that we can achieve very simple and cheap implementations of virtual reality and augmented reality application once we successfully commicated Arduino, sensors with computer in both direction.
 
-Jekyll also offers powerful support for code snippets:
+## Game Play:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In the behinning, player choose one of three options of the game: Free driving, Coin collecting, and Helicopter driving. If they choose the coin collection, they uses joystick to move around in the 3*3 led matrix. When they pushes the switch in the joystick, they determine the locations of the coins on the map with respect to map of leds. When they press on the red led, the communication is started and Arduino sends data to Unity using serial communication. The player tries to catch the coins in the map with driving car by joystick. When car collects the coins, the corresponding leds in the mapp turns off. If they choose the driving helicopter option, they use both MPU sensor and joystick. MPU sensor is used to determine the direction of the helicopter and joystick gives the movement. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Equipments:
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- Arduino
+- Adafruit BNO055 
+- X-Y Joystick
+- Leds
+- Jumper Cables
+
+We connected all the 9 leds to 2-10 digital pins on the arduino as output with a resistor for each. Digital 11-12 pin is connected to rgb led. Joystick data is connected to A0-A1 (for x-y values) and the switch on the joystick is connected to digital pin 13. Finally, 9-axis accelerometer data is connected to A4-A5. All necessary connections for GND and 5V are done for sensors and leds. 
+
+## Software:
+
+You can find the Unity project from the following link: [Unity]()
+You can find the Arduino code from the following link: [Arduino](https://drive.google.com/file/d/1HiJcFdxNFYRmZIJlnGq5p45u66svs1Hc/view?usp=sharing)
+
+## Videos:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQyqaxi_bWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQyqaxi_bWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
