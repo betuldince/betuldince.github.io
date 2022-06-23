@@ -24,12 +24,21 @@ Current GPA: 3.53/4.00
 
 ## Work and Internship Experience
 
+[Studio Gamebit](http://studiogamebit.com/)(June 22 - Present)
+
+
+[Nsocial](https://www.nsocialtr.com/index_en.html) (March 2022 - Present)
+
 Part Time Virtual Reality Developer
-[Nsocial](https://www.nsocialtr.com/index_en.html)
 - Working as a Virtual Reality developer to build occupational safety VR app used to train workers.
 - Taking part in collecting the assets, preparing the scenes, setting VR environments and coding the interactions.
 
+Koc Hospital/[Karma Lab](https://karma.ku.edu.tr/)(Sept. 2020 - Present)
 
+Augmented Reality Developer
+- Worked on software development of an AR-based application, My Hospital Buddy IDA, for children receiving therapy in the Koc Hospital.
+- Had in-depth experience building an AR application in Unity using the AR foundation and Vuforia plugins.
+- The project replaced first place in Abdi İbrahim We Heal The Future Contest and was rewarded with budget.
 
 
 ## Based on
