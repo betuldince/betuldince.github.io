@@ -12,7 +12,7 @@ image7: /assets/image/8.png
 image8: /assets/image/9.png
 ---
 
-I am happy to say that I have successfully completed my graphic design internship at METU. I was doing graphic design for the first time and in these two months I realized once again that I love graphic design. Here I share a few of my works that I hope will inspire you.
+I am happy to say that I have successfully completed my graphic design internship at METU. I was doing graphic design for the first time and in these two months I realized that I love graphic design. Here I share a few of my works that I hope will inspire you.
 
 
 
