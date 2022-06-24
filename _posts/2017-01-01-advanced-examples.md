@@ -57,7 +57,7 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 
 
-![sensor](https://github.com/betuldince/betuldince.github.io/tree/master/assets/images)
+![sensor](https://github.com/betuldince/betuldince.github.io/blob/master/assets/images/sensor.jpeg)
 
 
 
