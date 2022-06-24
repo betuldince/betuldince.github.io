@@ -1,6 +1,7 @@
 ---
 title: "Digital Harp"
 layout: post
+image: /assets/image/sensors.PNG
 ---
 
 Are you also suffering from the recently increased instrument prices? I have some good news for you. You can create your own instrument in your house and play it without even actually touching it.
@@ -31,6 +32,11 @@ You just need to buy some cheap sensors, cables and Arduino to build it from scr
 - Open Touchdesigner File
 
 Your instrument is ready! Also you can change your instrument with downloading different audios and adding them to Touchdesigner.
+
+## Fritzing Schematic 
+
+![]({{page.image | relative_url}})
+
 
 ## Demo
 
