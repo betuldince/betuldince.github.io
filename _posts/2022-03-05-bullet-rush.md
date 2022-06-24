@@ -3,8 +3,10 @@ title: "Bullet Rush Type Game for NoSurrender"
 layout: post
 ---
 
+I developed a game like Bullet Rush for NoSurrender in my internship. 
 
-I developed a game like Bullet Rush for NoSurrender in my internship. The instructions were as follows,
+
+The instructions were as follows,
 
 - The project should be mobile-oriented.
 - Unity version 2020.3.18f should be used.
