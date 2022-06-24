@@ -1,5 +1,5 @@
 ---
-title: "Bullet Rush Type Game for NoSurrender"
+title: "Bullet Rush type game for NoSurrender"
 layout: post
 ---
 
