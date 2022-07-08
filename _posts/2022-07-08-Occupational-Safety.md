@@ -1,9 +1,7 @@
 ---
-title: "Welcome to Jekyll"
+title: Occupational Safety VR App
 layout: post
 ---
-
-## Occupational Safety VR App
 
 Educating workers about occupational hazards has never been easier. All you have to do is give the headset to the workers. The app provides users with detailed information and guidance. With this application, you can save time and money as well as making training more fun for workers. 
 
