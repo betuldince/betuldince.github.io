@@ -1,25 +1,18 @@
 ---
-title: "Welcome to Jekyll"
+title: My Hospital Friend AR App
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Augmented reality (AR) brings together real life and the digital world. It does this by creating a digital landscape or "canvas" around the user, in which digital content can interact with the user's physical surroundings
+Though most augmented reality (AR) applications in medicine have been focused on surgery, AR-based use cases are expanding quickly throughout the full spectrum of care, including diagnostics, treatment planning, monitoring, mental health, and rehabilitation. 
 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+This AR-based application was made for children receiving treatment at Koç Hospital. Our aim is to create a digital therapy friend who contributes to therapy by talking to children for 12 weeks. With this application, we won the Abdi İbrahim “We Heal the Future” contest. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+For this project, I build the mobile application in Unity by using Vuforia plugin. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Video
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WLuGb2P_4mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
