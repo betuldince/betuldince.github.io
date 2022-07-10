@@ -1,5 +1,5 @@
 ---
-title: "Digital Harp"
+title: "Updated - Digital Harp"
 layout: post
 image: /assets/image/sensors.PNG
 ---
