@@ -46,6 +46,7 @@ VR Developer
 - Coded interactions and optimized VR environment to enhance the user experience.
 
 [NoSurrender](https://nosurrender.studio/)(Apr. 2022 – June 2022)
+
 Game Development Intern
 
 - Had experience in the Hyper-causal game development team.
