@@ -6,7 +6,7 @@ layout: page
 
 ## Research Interests
 
-AR / VR technologies, sensors, signal processing, FPGA design, mobile app development, machine learning applications in AR/VR technologies, modeling, animation, human-computer interaction, design, media and communication studies.
+Applied Games, immersive technologies, mobile app development, wearable devices, human-computer interaction, sensors, signal processing, FPGA design, machine learning applications in AR/VR technologies, animation, media and communication studies.
 
 ## Education
 
