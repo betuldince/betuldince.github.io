@@ -18,20 +18,11 @@ Dual degree with B.A. in Media and Visual Arts(Fall 2019 - Present)
 
 Track program with Artificial Intelligence(Spring 2021 – Present)
 
-Current GPA: 3.53/4.00
+Current GPA: 3.56/4.00
 
 [NAOL High School](https://nigdeaol.meb.k12.tr/) Niğde/Turkey
 
 ## Work and Internship Experience
-
-[Studio Gamebit](http://studiogamebit.com/)(June 22 - Present)
-
-
-[Nsocial](https://www.nsocialtr.com/index_en.html) (March 2022 - Present)
-
-Part Time Virtual Reality Developer
-- Working as a Virtual Reality developer to build occupational safety VR app used to train workers.
-- Taking part in collecting the assets, preparing the scenes, setting VR environments and coding the interactions.
 
 [Koc Hospital](https://www.kuh.ku.edu.tr/en)[/KARMA Lab](https://karma.ku.edu.tr/)(Sept. 2020 - Present)
 
@@ -41,7 +32,13 @@ Augmented Reality Developer
 - Had in-depth experience building an AR application in Unity using the AR foundation and Vuforia plugins.
 - The project replaced first place in Abdi İbrahim We Heal The Future Contest and was rewarded with budget.
 
-[Arçelik](https://www.arcelikglobal.com/en/)[/KARMA Lab](https://karma.ku.edu.tr/)(Sept. 2020 - Present)
+[Nsocial](https://www.nsocialtr.com/index_en.html) (March 2022 - August 2022)
+
+Virtual Reality Developer
+- Worked as a Virtual Reality developer and build occupational safety VR app used to train workers and multi-player VR game for children.
+- Worked with both the front end and back end of VR applications.
+
+[Arçelik](https://www.arcelikglobal.com/en/)[/KARMA Lab](https://karma.ku.edu.tr/)(Sept. 2020 - October 2021)
 
 VR Developer
 
@@ -51,6 +48,7 @@ VR Developer
 [NoSurrender](https://nosurrender.studio/)(Apr. 2022 – June 2022)
 Game Development Intern
 
+- Had experience in the Hyper-causal game development team.
 
 [Middle East Technical University Career Planning Center](https://www.metu.edu.tr/)(July 2021 - Sept. 2021)
 
@@ -86,6 +84,23 @@ Sensor implementer and Filter Designer
 
 - Worked on campus accessibility to provide access and equal educational opportunity for students with disabilities
 - Organized and posted articles about Human-Computer interaction on Crafts computing website.
+
+
+## Accomplishments
+
+Scholarships and Fellowships
+
+- Anatolian Scholarship 
+- 2023/2024 Fulbright Scholarship
+
+Highlights
+
+- Ranked as 4703rd/2,162,895 in 2017 LYS(Turkish equivalent of SAT).
+- Received Vehbi Koç Honor Award for 5 consecutive semesters, given to students with SPA 3.5 and higher.
+- TOEFL score: 90/120
+- Graduated from high school with second highest GPA on June 2017.
+- 2016-European Union Story Contest, provincial winner.
+- Prepared biology and physics projects for the TUBITAK research competition in high school.
 
 ## Extracurricular Activities
 
@@ -138,20 +153,6 @@ Programs : Unity, Blender, Auto Desk Maya, Unreal, Adobe Illustrator, Photoshop,
 
 Interests : Oil painting, playing piano, drum and guitar, swing dancing, ice skating, cycling, radio broadcasting, volunteering.
 
-## Accomplishments
-
-Scholarships and Fellowships
-
-- Anatolian Scholarship 
-
-Highlights
-
-- Ranked as 4703rd/2,162,895 in 2017 LYS(Turkish equivalent of SAT).
-- Received Vehbi Koç Honor Award for 5 consecutive semesters, given to students with SPA 3.5 and higher.
-- TOEFL score: 90/120
-- Graduated from high school with second highest GPA on June 2017.
-- 2016-European Union Story Contest, provincial winner.
-- Prepared biology and physics projects for the TUBITAK research competition in high school.
 
 
 
