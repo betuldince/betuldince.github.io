@@ -50,7 +50,7 @@ We made a box for the digital Harp project. And we set it up  for the exhibition
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/_dfrmWjgpa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- ## Final Version to Digital Harp
+ ## Final Version of Digital Harp
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/CIi5fXelpqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
