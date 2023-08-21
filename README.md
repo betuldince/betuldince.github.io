@@ -26,15 +26,52 @@ GPA: 3.6/4.00
 
 [NAOL High School](https://nigdeaol.meb.k12.tr/) Niğde/Turkey
 
-## Work and Internship Experience
+## Projects and Research Experience
 
-[Koc Hospital](https://www.kuh.ku.edu.tr/en)[/KARMA Lab](https://karma.ku.edu.tr/)(Sept. 2020 - Present)
+[Koc Hospital](https://www.kuh.ku.edu.tr/en)[/KARMA Lab](https://karma.ku.edu.tr/)(Sept. 2022 - June 2023)
+
+VR Developer / Arduino Developer
+
+- Developed a VR application with biofeedback mechanism using Oculus Quest 2 and ADXL sensor to reinforce deep/slow breathing to reduce pain and anxiety during port needle insertion for cancer treatment in collaboration with Koc Hospital.
+- Finalist in TUBITAK(The Scientific and Technological Research Council of Turkey) “Technology for Humanity” competition.
+- Third place project in the Best Senior Design competition within the Koc University Engineering Department.
+- Currently in the process of publishing an article about the utilization of VR for pain relief and distraction during cancer treatment.
+
+[Mimar Sinan Fine Arts University](https://msgsu.edu.tr/)[/KARMA Lab](https://karma.ku.edu.tr/)(Feb. 2023 - May 2023)
+
+Arduino / Unity Developer
+
+- Transformed carpet waving action into a digital instrument, operable through free hand movements in space, utilizing Windows Kinect 2, Arduino Uno, HC-SR04, and Unity software
+- The instrument is showcased and performed at the "Ortak Mekik" exhibition during the month of May 2023
+
+[Koc University](https://www.ku.edu.tr/en/)[/KARMA Lab](https://karma.ku.edu.tr/)(Feb. 2022 - Aug. 2022)
+
+Arduino / TouchDesigner Developer
+
+- Developed an Arduino-controlled digital harp instrument that uses distance sensors to be exhibited at the Catch the Trickers Exhibition which held at the Abdulmecid Efendi Museum during September 2022
+- Used 6 HC-SR04 distance sensors, Arduino Mega, and TouchDesigner to generate harp sound
+
+[Koc Hospital](https://www.kuh.ku.edu.tr/en)[/KARMA Lab](https://karma.ku.edu.tr/)(Sept. 2020 - June 2022)
 
 Augmented Reality Developer
 
 - Worked on software development of an AR-based application, My Hospital Buddy IDA, for children receiving therapy in the Koc Hospital.
 - Had in-depth experience building an AR application in Unity using the AR foundation and Vuforia plugins.
 - The project replaced first place in Abdi İbrahim We Heal The Future Contest and was rewarded with budget.
+
+[VRables Lab](https://www.linkedin.com/company/vrables-lab/)(June 2021 - Aug 2021)
+
+Sensor implementer and Filter Designer
+
+- Took part in creating controller for Mobile VR using Ardunio, Unity, 9 axis motion sensors.
+- Worked as filter designer to achieve the most realistic results and coded the Kalman Filter.
+
+[Koç University Arçelik Research Center for Creative Industries](https://kuar.ku.edu.tr/)(Sept. 2019 - Jan 2020)
+
+- Worked on campus accessibility to provide access and equal educational opportunity for students with disabilities
+- Organized and posted articles about Human-Computer interaction on Crafts computing website.
+
+## Work and Research Experience
 
 [Nsocial](https://www.nsocialtr.com/index_en.html) (March 2022 - August 2022)
 
@@ -75,21 +112,6 @@ Mobile Application Developer Intern
 
 - Helped preparation of AR-Ready models and built an Augmented Reality Mobile application using image tracking and plane detector.
 - Had in-depth experience with Unity and ARFoundation. 
-
-## Projects and Research Experience
-
-[VRables Lab](https://www.linkedin.com/company/vrables-lab/)(June 2021 - Aug 2021)
-
-Sensor implementer and Filter Designer
-
-- Took part in creating controller for Mobile VR using Ardunio, Unity, 9 axis motion sensors.
-- Worked as filter designer to achieve the most realistic results and coded the Kalman Filter.
-
-[Koç University Arçelik Research Center for Creative Industries](https://kuar.ku.edu.tr/)(Sept. 2019 - Jan 2020)
-
-- Worked on campus accessibility to provide access and equal educational opportunity for students with disabilities
-- Organized and posted articles about Human-Computer interaction on Crafts computing website.
-
 
 ## Accomplishments
 
