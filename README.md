@@ -71,7 +71,7 @@ Sensor implementer and Filter Designer
 - Worked on campus accessibility to provide access and equal educational opportunity for students with disabilities
 - Organized and posted articles about Human-Computer interaction on Crafts computing website.
 
-## Work and Research Experience
+## Work and Internship Experience
 
 [Nsocial](https://www.nsocialtr.com/index_en.html) (March 2022 - August 2022)
 
@@ -117,13 +117,14 @@ Mobile Application Developer Intern
 
 Scholarships and Fellowships
 
-- Anatolian Scholarship 
-- 2023/2024 Fulbright Scholarship
+- Anatolian Scholarship (6yr, starting from 2017 Fall, 15,000$ per year)
+- Fulbright Scholarship (2yr, starting from 2023 Fall, 50,000$ per year)
+- Keith Uncapher Scholarship from University of Southern California (2yr, starting from 2023 Fall, 29,088$ total)
 
 Highlights
 
 - Ranked as 4703rd/2,162,895 in 2017 LYS(Turkish equivalent of SAT).
-- Received Vehbi Koç Honor Award for 5 consecutive semesters, given to students with SPA 3.5 and higher.
+- Received Vehbi Koç Honor Award for 7 consecutive semesters, given to students with SPA 3.5 and higher.
 - TOEFL score: 99/120
 - Graduated from high school with second highest GPA on June 2017.
 - 2016-European Union Story Contest, provincial winner.
