@@ -3,8 +3,10 @@ title: "VR Fruit Game"
 layout: post
 ---
 
-I developed multi-player fruit picking game in VR. In this game, there are 3 teams according to colors: blue, yellow and green. They are competing against time and trying to collect the fruits with most points. The one who got most points in the given time became a winner. 
+I've developed an interactive multiplayer VR game designed to encourage children to exercise. 
 
+
+In this virtual app, players are divided into three distinct teams, each represented by vibrant colors: blue, yellow, and green. The heart of the game lies in a riveting race against time, player's mission is to collect fruits and accumulate a substantial point total. Ultimately, the player who accumulates the greatest number of points within the allotted time emerges victorious. 
 
 For this game, I used Unity 3D, Oculus SDK, and online database servers for multi-player option.
 
