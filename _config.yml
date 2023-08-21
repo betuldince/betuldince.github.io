@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "ABOUTME.md", title: "About"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:bdincer17@ku.edu.tr"}
+  - {title: Mail, icon: envelope, url: "mailto:bdincer@usc.edu"}
   - {title: Github, icon: github, url: "https://github.com/betuldince"}
   - {title: Subscribe, icon: rss, url: "https://www.linkedin.com/in/bet%C3%BCl-din%C3%A7er-b0b91a153/"}
 comments:
