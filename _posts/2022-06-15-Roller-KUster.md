@@ -3,10 +3,9 @@ title: "Roller KUster VR app"
 layout: post
 ---
 
-Are you ready to tour Koc University and travel in time? If your answer is yes, put on your VR device, this application is for you. 
+Get ready to explore Koc University like never before and take a trip through time! If you're as excited as I am, all you need to do is put on your VR device – this application is designed just for you.
 
-
-I created a roller coaster VR game on Koç University Campus using Unity and XR interaction toolkit for Oculus Quest 2. In this project, I used an exact model of the Koc University Campus so that newcomers can both enjoy playing Roller Coaster VR app and learn better about the campus by riding around the campus.
+I created a roller coaster VR game set right on the Koc University Campus using Unity and the XR Interaction Toolkit for the Oculus Quest 2. I used an exact model of the campus, so when people play the Roller Coaster VR app, they are not just having fun – they are also getting to know the campus in a whole new way. I've always believed in the power of tech to make things exciting and educational, and this project is a perfect example.
 
 ## Story of the game:
 
