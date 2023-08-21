@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-![image](https://github.com/betuldince/betuldince.github.io/blob/master/480260-145-h.jpg)
+![image](https://github.com/betuldince/betuldince.github.io/blob/master/assets/image/Screen%20Shot%202023-08-20%20at%2021.34.22.png)
 
 Greetings! I am a dedicated graduate student in Computer Science at University of Southern California. My academic journey has been marked by prestigious achievements, including the receipt of both the Fulbright and Keith Uncapher Scholarships in recognition of my outstanding dedication to furthering my graduate studies.
 
