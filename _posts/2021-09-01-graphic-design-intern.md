@@ -12,7 +12,8 @@ image7: /assets/image/8.png
 image8: /assets/image/9.png
 ---
 
-I am happy to say that I have successfully completed my graphic design internship at METU. I was doing graphic design for the first time and in these two months I realized that I love graphic design. Here I share a few of my works that I hope will inspire you.
+
+I'm delighted to announce the successful culmination of my enriching graphic design internship at METU. Embarking on this journey, I ventured into the realm of graphic design for the first time, and over the course of these two transformative months, I've come to a resounding realization—I have developed a profound passion for graphic design.
 
 
 
