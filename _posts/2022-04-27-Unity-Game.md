@@ -5,6 +5,7 @@ layout: post
 
 The moment has come for us to roll up our sleeves and create our very own game complete with a joystick. My friend and I embarked on a thrilling adventure, crafting a Unity Game that's under our complete control using a joystick, an MPU sensor, and an Arduino. The game we pieced together boasts three distinctive modes: there's the free-driving mode, the exhilarating coin-collecting mode, and even a mode where you get to pilot a helicopter!
 
+
 Our Unity Game takes cues from the joystick, the MPU sensor, and the Arduino, transforming them into instruments of gaming. The joystick and MPU sensor guide our actions and the Arduino acts as our communication bridge.
 
 The communication between Arduino and computer is bidirectional, which means that Arduino sends data to computer as well as computer sends data to Arduino. Novelty that we want to achieve from this project is that we can achieve very simple and cheap implementations of virtual reality and augmented reality application once we successfully commicated Arduino, sensors with computer in both direction.
