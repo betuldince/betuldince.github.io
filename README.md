@@ -6,19 +6,23 @@ layout: page
 
 ## Research Interests
 
-Applied Games, immersive technologies, mobile app development, wearable devices, human-computer interaction, sensors, signal processing, FPGA design, machine learning applications in AR/VR technologies, animation, media and communication studies.
+Applied Games, Immersive Technologies, Ubiquitous Computing, Human Centered Design, Human-Computer Interaction Data Visualization, Machine Learning, Sensors, Signal processing, Design, Media and Communication Studies.
 
 ## Education
 
+[University of Southern California](https://www.usc.edu/) Los Angeles/USA
+
+MS. in Computer Science for scientists and engineers(Fall 2023 - Present)
+
 [Koc University](https://www.ku.edu.tr/en/) Istanbul/Turkey
 
-B.E. in Electrical & Electronics Engineering(Fall 2018 - Present)
+B.E. in Electrical & Electronics Engineering(Fall 2018 - Spring 2023)
 
-Dual degree with B.A. in Media and Visual Arts(Fall 2019 - Present)
+Dual degree with B.A. in Media and Visual Arts(Fall 2019 - Spring 2023)
 
-Track program with Artificial Intelligence(Spring 2021 – Present)
+Track program with Artificial Intelligence(Spring 2021 – Spring 2023)
 
-Current GPA: 3.56/4.00
+GPA: 3.6/4.00
 
 [NAOL High School](https://nigdeaol.meb.k12.tr/) Niğde/Turkey
 
