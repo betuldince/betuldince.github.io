@@ -1,11 +1,15 @@
 ---
-title: "2D Encanto Cycling Game"
+title: "Sound of Carpet Waiving"
 layout: post
 ---
-I created this game as part of my Senior project in Media and Visual Arts. I undertook the entire process, from designing and sketching to coding the game, and even handling the hardware development. The objective of this game is to motivate children undergoing chemotherapy to engage in physical movement during their hospital stays while receiving serum. The game halts whenever the cycling action stops, and at pivotal moments, users are required to raise the corresponding hand. This approach effectively encourages patients to remain active, all while enjoying a gamified version of the popular movie "Encanto." Moreover, due to the modular design of this system, it has the flexibility to target various age groups by simply changing the storyline.
+Collaborating with the Traditional Turkish Art Department at Mimar Sinan Fine Arts University, this project merges technology with the traditional practice of carpet weaving. 
 
-Rather than purchasing costly cadence sensors, I developed my own cadence sensor. I put a distance sensor on the bicycle's frame, which returns reduced distances whenever the pedal moves past the sensor. I then measured the time until the subsequent passage. A brief time interval indicates a rapid pace, while a longer interval suggests the opposite. Additionally, I employed the Microsoft Kinect 2 sensor to detect hand movements.
 
-## Gameplay Video
+The exhibition, Ortak Mekik, showcased various projects that ingeniously combined AR/VR/immersive technologies with the rich history of carpets. In the beginning and ending of the exhibition, my project was performed by a Carpet Weaving professor, Gulcin Aksoy.
 
-<iframe width="560" height="315" src="https://youtu.be/iarpG9tTtl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+My contribution involved translating traditional carpet weaving motions into generative music, yielding a project that received considerable attention. To accomplish this, I employed Windows Kinect 2, Arduino Uno, HC-SR04, and Unity software. Initially, I generated sine waves based on hand positions along the x and y axes. Subsequent prototypes entailed smoothing raw sine wave sounds through filters and constructing a sound grid. Under the pedals, distance sensors were placed to identify which pedal was pressed. By mapping three-dimensional hand movements onto a 2D plane, the notes associated with touched keys were played.
+
+
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VyLFD35R6ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
