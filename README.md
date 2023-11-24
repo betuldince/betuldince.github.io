@@ -6,7 +6,7 @@ layout: page
 
 ## Research Interests
 
-Applied Games, Immersive Technologies, Ubiquitous Computing, Human Centered Design, Human-Computer Interaction Data Visualization, Machine Learning, Sensors, Signal processing, Design, Media and Communication Studies.
+Software Engineering, Applied Games, Immersive Technologies, Ubiquitous Computing, Human Centered Design, Human-Computer Interaction Data Visualization, Machine Learning, Sensors, Signal processing, Design, Media and Communication Studies.
 
 ## Education
 
