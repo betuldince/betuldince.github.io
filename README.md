@@ -28,6 +28,14 @@ GPA: 3.6/4.00
 
 ## Projects and Research Experience
 
+[USC Locomotor Lab](https://sites.usc.edu/lcl/)[/USC Creative Media & Behavioral Health Center](https://cmbhc.usc.edu/)(Sept. 2023 - Present)
+
+Full Stack VR Developer 
+
+- Spearheading development of a VR game aimed at addressing gait impairments in individuals with Parkinson's disease
+
+- Working as a full-stack developer, utilizing PHP with MySQL for server-side logic to ensure seamless integration with front-end and VR functionalities
+
 [Koc Hospital](https://www.kuh.ku.edu.tr/en)[/KARMA Lab](https://karma.ku.edu.tr/)(Sept. 2022 - June 2023)
 
 VR Developer / Arduino Developer
