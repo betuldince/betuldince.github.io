@@ -36,6 +36,13 @@ Full Stack VR Developer
 
 - Working as a full-stack developer, utilizing PHP with MySQL for server-side logic to ensure seamless integration with front-end and VR functionalities
 
+[USC Game Innovation Lab](https://www.gameinnovationlab.com/)(Sept. 2023 - Present)
+
+AR Developer 
+
+- Developing an AR app that tracks stars in the sky, allowing users to create personalized constellations and enhance them with storytelling elements
+- Working on AR development on Unity Engine
+
 [Koc Hospital](https://www.kuh.ku.edu.tr/en)[/KARMA Lab](https://karma.ku.edu.tr/)(Sept. 2022 - June 2023)
 
 VR Developer / Arduino Developer
