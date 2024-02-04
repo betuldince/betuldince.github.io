@@ -1,15 +1,15 @@
 ---
-title: "2D Encanto Cycling Game"
+title: "Create your own constellations"
 layout: post
 ---
 
-To encourage children undergoing chemotherapy to stay active on the days they receive treatment at the hospital.
+Have you ever had the desire to craft your own constellation? This application allows you to create both unique constellations and explore existing ones.
 
 
-I created this game as part of my Senior project in Media and Visual Arts. I undertook the entire process, from designing and sketching to coding the game, and even handling the hardware development. The objective of this game is to motivate children undergoing chemotherapy to engage in physical movement during their hospital stays while receiving serum. The game halts whenever the cycling action stops, and at pivotal moments, users are required to raise the corresponding hand. This approach effectively encourages patients to remain active, all while enjoying a gamified version of the popular movie "Encanto." Moreover, due to the modular design of this system, it has the flexibility to target various age groups by simply changing the storyline.
+While currently in the early stages of development, our ultimate objective is to build an augmented reality (AR) application capable of tracking the stars in the night sky. You can interact with your personally created constellation to document your stories and diaries. Selecting a constellation reveals a menu showcasing all its stars, each of which can be individually modified in terms of the star's name, story, attached image, or recorded voice message. All your entries are automatically saved when you exit the app. Additionally, we have plans to incorporate a multiplayer feature, enabling users to connect with friends within the application and share their unique constellations.
 
-Rather than purchasing costly cadence sensors, I developed my own cadence sensor. I put a distance sensor on the bicycle's frame, which returns reduced distances whenever the pedal moves past the sensor. I then measured the time until the subsequent passage. A brief time interval indicates a rapid pace, while a longer interval suggests the opposite. Additionally, I employed the Microsoft Kinect 2 sensor to detect hand movements.
+As a team, we are working on developing this project, and my responsibilities primarily involve app development in Unity.
 
-## Gameplay Video
+## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iarpG9tTtl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9mSlTzQljwE?si=YQfkf6k_CYLz6mHt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
